@@ -19,10 +19,10 @@
   ],
   "require": {
     "php": ">=5.5",
-    "laravel/framework": "5.1.*|5.2.*",
+    "laravel/framework": "5.1.*|5.2.*|5.3.*",
     "pingpong/generators": "2.1.*|2.2.*",
     "pingpong/support": "2.1.*|2.2.*",
-    "laravelcollective/html": "5.1.*|5.2.*"
+    "laravelcollective/html": "5.1.*|5.2.*|5.3.*"
   },
   "require-dev": {
     "phpunit/phpunit": "~4",
